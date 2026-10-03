@@ -1,0 +1,25 @@
+node_modules/
+.expo/
+dist/
+web-build/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# Variáveis de ambiente locais
+.env
+.env.local
+
+# Credenciais nativas (caso gere projeto nativo)
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Editor
+.vscode/
+.idea/
